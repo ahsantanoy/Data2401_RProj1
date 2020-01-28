@@ -14,8 +14,14 @@ library(datasauRus)
 
 
 ### Exercise 1
+The datasaurus_dozen file have a data frame with 1846 rows and 3 variables:
 
-(Type your answer to Exercise 1 here. This exercise does not require any R code. **Remove notes like this in your final product**)
+dataset: indicates which dataset the data are from
+
+x: x-values
+
+y: y-values
+
 
 ### Exercise 2
 
